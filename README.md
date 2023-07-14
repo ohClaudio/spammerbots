@@ -40,6 +40,9 @@
 ☞ `ALIVE_MESSAGE` - Message to be displayed while using alive command.<br>
 ☞ `ALIVE_MEDIA` - Telegraph link of media(photo/video/gif) to be displayed while using alive command.<br>
 
+## 📌 Cʀᴇᴅɪᴛs 
+* [Lonami](https://github.com/LonamiWebs/) for [Telethon](https://github.com/LonamiWebs/Telethon)
+
 
 ```
 If you are taking code from this repository without a
