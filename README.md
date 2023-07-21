@@ -4,7 +4,7 @@
 </p>
 
 ### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs sᴘᴀᴍᴍᴇʀʙᴏᴛs
-  <a href="https://github.com/Gladiators-Projects"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
+  <a href="https://github.com/ohClaudio"><img alt="Website" src="https://img.shields.io/badge/ohClaudio-blue"></a>
   [![Stars](https://img.shields.io/github/stars/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/stargazers)
   [![Forks](https://img.shields.io/github/forks/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/fork)
 
